@@ -1,0 +1,47 @@
+.css-down {
+	padding-top:10px;
+}
+.css-up {
+	padding-top: 0px;
+}
+.css-margin {
+	transition-duration: 3000ms;
+	padding-bottom:20px;
+}
+.css-card {
+	max-height: 630px;
+	width: 100%;
+	opacity: 1;
+}
+.css-image {
+	height: 300px;
+}
+body {
+	padding-top: 80px;
+	background: url("bg_.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.css-width {
+	
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	max-height: 400px;
+}
+.css-carousel{
+	padding: 0 0 0 0 !important;
+	border:solid black 2px;
+}
+.css-hey-img{
+	margin-top: -20px;
+	margin-left: -1px;
+	margin-bottom: -20px;
+	position: fixed;
+	overflow: hidden;
+	height: 100%;
+}
+
+
