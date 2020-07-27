@@ -1,13 +1,13 @@
-Hello folks, 
+# Galleria 
+Image Gallery
 
-You have to run 
+##
+git clone ``
 
-meteor npm install
-
-in this directory before you can run the application. 
+##
+`meteor npm install` to install necessary modules 
  
- cd into the directory and :
- 
- meteor
+##
+`meteor`
  
  Add your images!
