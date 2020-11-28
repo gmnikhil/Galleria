@@ -1,14 +1,8 @@
 # Galleria 
-Image Gallery
+This is an Image Gallery
 
-##
-git clone `https://github.com/Nikcodes10/Galleria.git`
+## Meteor
+This was my real first attempt at creating a functional webpage with a database. This was done using `meteorJS`. I also learnt to implement bootstrap through this.
 
-##
-`meteor npm install` to install necessary modules 
- 
-##
-`meteor`
-
-##
-Add your images!
+## Run Locally
+Clone the repo -> cd into it -> run `meteor`
